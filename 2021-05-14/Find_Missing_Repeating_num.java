@@ -4,6 +4,11 @@ import java.util.Arrays;
 
 public class Find_Missing_Repeating_num {
 
+//Time Complexity : O(n)
+//Space Complexity : O(n)
+//Problems in this method:
+//	If n values becomes 10^9 it faces some space restrictions:
+	
 	//boolean method
 	public static void findMisandRepeat(int arr[]) {
 		
