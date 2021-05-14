@@ -1,7 +1,9 @@
 package SDE;
 
 public class Make_2_eqe_sum_square {
-
+//Time complexity : O(n)
+//Space Complexity : O(1)
+	
 	public static void missing_repeated(int arr[]) {
 		
 		int n = arr.length;
